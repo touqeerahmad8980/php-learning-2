@@ -1,0 +1,7 @@
+{
+    "/php-project/backend/api": {
+        "target" : "http://localhost",
+        "secure" :   false,
+        "changeOrigin": true
+    }
+}
